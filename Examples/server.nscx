@@ -1,0 +1,11 @@
+# Simple HTTP server (file + route)
+import http, file
+
+http.server(8080)
+    on request:
+        if request.path == "/":
+            request.respond.html("<h1>Index</h1>")
+        elif request.path.starts_with("/files/"):
+            request.serve.file(file.resolve(request.path.strip_prefix("/files/")))
+        else:
+            request.respond.status(404, "Not found")

@@ -1,0 +1,8 @@
+import http
+side = file.input()
+    side.http.server()
+        {
+            server.set.get.online
+            open.browser()
+        }
+

@@ -1,0 +1,9 @@
+# GUI window with buttons
+import gui
+
+gui.window("Settings", size=(420,320))
+    gui.label("Theme: Dark")
+    gui.select("theme", options=["light","dark"], value="dark")
+    gui.button("Save")
+        on click:
+            gui.toast("Settings saved")

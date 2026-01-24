@@ -1,0 +1,10 @@
+# Key binding (toggle database panel)
+import key, gui, database
+
+db = database.file.url(http://nano.back.end/data/nano.code)
+
+# map Ctrl+Shift+D to toggle DB panel
+key.map(ctrl + shift + d)
+    gui.toggle("database_panel")
+    if gui.is_visible("database_panel"):
+        gui.show.database(db.list.users)

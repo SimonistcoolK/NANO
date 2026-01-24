@@ -1,0 +1,7 @@
+# Hello world (console + GUI)
+import sys
+print("Hello, NANO!")
+
+import gui
+gui.info = (back="#222", font="code", gmt="400*100")
+gui.toast("Welcome to NANO")

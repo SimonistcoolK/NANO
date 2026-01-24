@@ -1,0 +1,10 @@
+# Background task + scheduled job
+import task, http
+
+task.run.background("sync_remote")
+    every 5m:
+        resp = http.get("http://nano.back.end/pulse")
+        if resp.status == 200:
+            task.log("sync OK")
+        else:
+            task.log("sync failed", resp.status)

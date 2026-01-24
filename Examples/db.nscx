@@ -1,0 +1,12 @@
+# Database read/write (REST-style)
+import database
+
+db = database.file.url(http://nano.back.end/data/nano.code)
+
+# read a user by id
+user = db.read.users.find(id=17)
+if user != None:
+    print("User:", user.name, user.score)
+
+# add a new user
+db.write.users.add({name:"Lena", score:42})

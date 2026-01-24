@@ -1,0 +1,5 @@
+"http" für http://Server
+"gui" für einfache grafik
+"database" für Datenbanken
+"key" zum lesen von  Keyboard Interaktionen
+"json" zum lesen und scheiben von json daten 

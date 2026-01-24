@@ -1,0 +1,16 @@
+import database, http, gui, key
+
+gui.info = (back="#565151", font="code", gmt="600*200")
+database = database.file.url(http://nano.back.end/data/nano.code)
+side = index.html
+    side.http.server()
+        {
+            server.set.get.online
+        }
+        if user.login == True:
+            database.write.new.user.login as log(num)
+        elif user.singin == True:
+            database.write.new.user.singin as sing(num)     
+
+if key.press(ctrl + ^)
+    gui.show.database

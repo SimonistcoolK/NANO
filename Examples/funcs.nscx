@@ -1,0 +1,10 @@
+# Function / reuse + error handling
+# define a function
+func greet(name)
+    if name == "" or name == None:
+        return "Howdy, stranger"
+    return "Hello " + name
+
+# usage
+msg = greet("Mara")
+print(msg)
