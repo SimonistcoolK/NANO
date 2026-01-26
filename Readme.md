@@ -22,5 +22,5 @@ You need Linux or Windows
 &nbsp;gui
 
 &nbsp;key
-
-![SIMONK](https://raw.githubusercontent.com/SimonistcoolK/NANO/refs/heads/main/NANO.png)
+### LOGO:
+![logo](https://raw.githubusercontent.com/SimonistcoolK/NANO/refs/heads/main/NANO.png)
