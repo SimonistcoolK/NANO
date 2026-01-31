@@ -24,3 +24,5 @@ You need Linux or Windows
 &nbsp;key
 ### LOGO:
 ![logo](https://raw.githubusercontent.com/SimonistcoolK/NANO/refs/heads/main/NANO.png)
+
+##### Webside, complier and Launcher aren't out yet! 
