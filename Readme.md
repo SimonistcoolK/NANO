@@ -26,3 +26,5 @@ You need Linux or Windows
 ![logo](https://raw.githubusercontent.com/SimonistcoolK/NANO/refs/heads/main/NANO.png)
 
 ##### Webside, complier and Launcher aren't out yet! 
+
+###### if you have questions, visit my guns.lol profile then discord
