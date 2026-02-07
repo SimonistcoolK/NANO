@@ -1,11 +1,16 @@
 import console
 
-in = console.input("choice >>>")
+ func in()
 
-if in == 1:
-    print.console("1")
+     in = console.input("choice >>>")
+     
+     if in == 1:
+         print.console("1")
+     
+     elif in == 2:
+         print.console("2")
+     else:
+         print.console("error")
 
-elif in == 2:
-    print.console("2")
-else:
-    print.console("error")
+func in()
+print.console("Hello, World")
