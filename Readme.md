@@ -23,4 +23,12 @@ You need Linux or Windows
 
 &nbsp;key
 ### LOGO:
+<<<<<<< HEAD
 ![logo](https://raw.githubusercontent.com/SimonistcoolK/NANO/refs/heads/main/NANO.png)
+=======
+![logo](https://raw.githubusercontent.com/SimonistcoolK/NANO/refs/heads/main/NANO.png)
+
+##### Webside, complier and Launcher aren't out yet! 
+
+###### if you have questions, visit my guns.lol profile then discord
+>>>>>>> 6d4c53af88b1e413d504314a169b823f1edd357d
