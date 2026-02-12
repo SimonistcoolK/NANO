@@ -1,16 +1,14 @@
 import console
 
- func in()
+in = console.input("choice >>>")
 
-     in = console.input("choice >>>")
-     
-     if in == 1:
-         print.console("1")
-     
-     elif in == 2:
-         print.console("2")
-     else:
-         print.console("error")
+console.func command()
+    if in =="complier":
+        file.open({complier})
+    elif in =="launcher":
+        file.open({launcher})
+print.console("CONSOLE")
 
-func in()
-print.console("Hello, World")
+while True:
+    command()
+    console.clear

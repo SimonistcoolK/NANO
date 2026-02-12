@@ -12,5 +12,5 @@ side = index.html
         elif user.singin == True:
             database.write.new.user.singin as sing(num)     
 
-if key.press(ctrl + ^)
+if key.press(ctrl + ^):
     gui.show.database

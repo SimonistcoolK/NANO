@@ -4,9 +4,7 @@
 
 |fast|easy|for games \& backend|
 |-|-|-|
-
-
-
+<hr>
 You need Linux or Windows
 * You need to download the "*Nano Complier*"
 * [NANO Webside](http://nano.code)
@@ -15,20 +13,9 @@ You need Linux or Windows
 
 ##### default libarys:
 
-&nbsp;http
-
-&nbsp;database
-
-&nbsp;gui
-
-&nbsp;key
+  http
+  database
+  gui
+  key
 ### LOGO:
-<<<<<<< HEAD
 ![logo](https://raw.githubusercontent.com/SimonistcoolK/NANO/refs/heads/main/NANO.png)
-=======
-![logo](https://raw.githubusercontent.com/SimonistcoolK/NANO/refs/heads/main/NANO.png)
-
-##### Webside, complier and Launcher aren't out yet! 
-
-###### if you have questions, visit my guns.lol profile then discord
->>>>>>> 6d4c53af88b1e413d504314a169b823f1edd357d

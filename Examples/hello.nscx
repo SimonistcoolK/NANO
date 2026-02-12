@@ -1,5 +1,4 @@
-# Hello world (console + GUI)
-import sys
+# Hello world (GUI)
 print("Hello, NANO!")
 
 import gui
